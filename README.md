@@ -1,7 +1,7 @@
 # FoodForAll
-#SuperUser Login
-#Username: nitro
-#Password: admin
+SuperUser Login
+Username: nitro
+Password: admin
 
 
 source code
